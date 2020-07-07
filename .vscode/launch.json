@@ -1,0 +1,1365 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Dedo<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "Dedo",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Percolation<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "Percolation",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PercolationStats<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "PercolationStats",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StackLinkedList<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "StackLinkedList",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StackResizingArray<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "StackResizingArray",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AVLTreeST<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AVLTreeST",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Accumulator<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Accumulator",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AcyclicLP<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AcyclicLP",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AcyclicSP<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AcyclicSP",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AdjMatrixEdgeWeightedDigraph<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AdjMatrixEdgeWeightedDigraph",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Alphabet<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Alphabet",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AmericanFlag<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AmericanFlag",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AmericanFlagX<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AmericanFlagX",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Arbitrage<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Arbitrage",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AssignmentProblem<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AssignmentProblem",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Average<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Average",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BST<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BST",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BTree<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BTree",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bag<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Bag",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BellmanFordSP<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BellmanFordSP",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryDump<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryDump",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryIn<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryIn",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryInsertion<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryInsertion",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryOut<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryOut",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinarySearch<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinarySearch",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinarySearchST<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinarySearchST",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryStdIn<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryStdIn",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryStdOut<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryStdOut",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bipartite<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Bipartite",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BipartiteMatching<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BipartiteMatching",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BipartiteX<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BipartiteX",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BlackFilter<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BlackFilter",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BoruvkaMST<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BoruvkaMST",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BoyerMoore<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BoyerMoore",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BreadthFirstDirectedPaths<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BreadthFirstDirectedPaths",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BreadthFirstPaths<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BreadthFirstPaths",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CC<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.CC",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CPM<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.CPM",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Cat<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Cat",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ClosestPair<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ClosestPair",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CollisionSystem<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.CollisionSystem",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Complex<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Complex",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Count<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Count",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Counter<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Counter",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Cycle<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Cycle",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Date<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Date",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DeDup<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DeDup",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DegreesOfSeparation<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DegreesOfSeparation",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepthFirstDirectedPaths<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DepthFirstDirectedPaths",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepthFirstOrder<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DepthFirstOrder",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepthFirstPaths<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DepthFirstPaths",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepthFirstSearch<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DepthFirstSearch",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Digraph<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Digraph",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DigraphGenerator<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DigraphGenerator",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DijkstraAllPairsSP<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DijkstraAllPairsSP",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DijkstraSP<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DijkstraSP",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DijkstraUndirectedSP<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DijkstraUndirectedSP",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedCycle<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedCycle",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedCycleX<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedCycleX",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedDFS<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedDFS",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedEdge<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedEdge",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedEulerianCycle<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedEulerianCycle",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedEulerianPath<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedEulerianPath",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoublingRatio<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DoublingRatio",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoublingTest<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DoublingTest",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Draw<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Draw",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Edge<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Edge",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EdgeWeightedDigraph<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.EdgeWeightedDigraph",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EdgeWeightedDirectedCycle<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.EdgeWeightedDirectedCycle",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EdgeWeightedGraph<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.EdgeWeightedGraph",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EulerianCycle<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.EulerianCycle",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EulerianPath<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.EulerianPath",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FFT<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FFT",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FarthestPair<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FarthestPair",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FenwickTree<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FenwickTree",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FileIndex<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FileIndex",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FlowEdge<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FlowEdge",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FlowNetwork<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FlowNetwork",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FloydWarshall<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FloydWarshall",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FordFulkerson<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FordFulkerson",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FrequencyCounter<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FrequencyCounter",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GREP<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GREP",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GabowSCC<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GabowSCC",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GaussJordanElimination<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GaussJordanElimination",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GaussianElimination<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GaussianElimination",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Genome<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Genome",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GlobalMincut<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GlobalMincut",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GrahamScan<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GrahamScan",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Graph<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Graph",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GraphGenerator<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GraphGenerator",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GrayscalePicture<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GrayscalePicture",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Heap<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Heap",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HexDump<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.HexDump",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HopcroftKarp<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.HopcroftKarp",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Huffman<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Huffman",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-In<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.In",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IndexMaxPQ<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.IndexMaxPQ",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IndexMinPQ<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.IndexMinPQ",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InplaceMSD<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.InplaceMSD",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Insertion<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Insertion",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InsertionX<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.InsertionX",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Interval1D<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Interval1D",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Interval2D<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Interval2D",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Inversions<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Inversions",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KMP<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.KMP",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KWIK<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.KWIK",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Knuth<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Knuth",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KosarajuSharirSCC<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.KosarajuSharirSCC",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KruskalMST<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.KruskalMST",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LSD<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LSD",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LZW<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LZW",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LazyPrimMST<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LazyPrimMST",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinearProbingHashST<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LinearProbingHashST",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinearProgramming<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LinearProgramming",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedBag<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LinkedBag",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedQueue<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LinkedQueue",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedStack<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LinkedStack",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestCommonSubstring<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LongestCommonSubstring",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestRepeatedSubstring<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LongestRepeatedSubstring",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LookupCSV<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LookupCSV",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LookupIndex<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LookupIndex",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MSD<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MSD",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaxPQ<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MaxPQ",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Merge<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Merge",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeBU<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MergeBU",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeX<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MergeX",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinPQ<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MinPQ",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Multiway<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Multiway",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NFA<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.NFA",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NonrecursiveDFS<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.NonrecursiveDFS",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NonrecursiveDirectedDFS<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.NonrecursiveDirectedDFS",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Out<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Out",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PatriciaSET<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.PatriciaSET",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PatriciaST<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.PatriciaST",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Picture<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Picture",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PictureDump<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.PictureDump",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Point2D<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Point2D",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Polynomial<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Polynomial",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrimMST<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.PrimMST",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Queue<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Queue",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Quick<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Quick",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Quick3string<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Quick3string",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Quick3way<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Quick3way",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickBentleyMcIlroy<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.QuickBentleyMcIlroy",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickFindUF<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.QuickFindUF",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickUnionUF<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.QuickUnionUF",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickX<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.QuickX",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RabinKarp<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.RabinKarp",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RandomSeq<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.RandomSeq",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RedBlackBST<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.RedBlackBST",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ResizingArrayBag<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ResizingArrayBag",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ResizingArrayQueue<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ResizingArrayQueue",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ResizingArrayStack<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ResizingArrayStack",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RunLength<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.RunLength",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SET<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SET",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ST<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ST",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SegmentTree<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SegmentTree",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Selection<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Selection",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SeparateChainingHashST<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SeparateChainingHashST",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SequentialSearchST<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SequentialSearchST",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Shell<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Shell",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SparseVector<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SparseVector",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Stack<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Stack",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdArrayIO<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdArrayIO",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdAudio<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdAudio",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdDraw<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdDraw",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdIn<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdIn",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdOut<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdOut",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdRandom<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdRandom",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdStats<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdStats",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Stopwatch<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Stopwatch",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StopwatchCPU<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StopwatchCPU",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SuffixArray<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SuffixArray",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SuffixArrayX<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SuffixArrayX",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SymbolDigraph<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SymbolDigraph",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SymbolGraph<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SymbolGraph",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TST<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TST",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TarjanSCC<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TarjanSCC",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThreeSum<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ThreeSum",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThreeSumFast<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ThreeSumFast",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TopM<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TopM",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Topological<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Topological",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TopologicalX<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TopologicalX",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Transaction<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Transaction",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TransitiveClosure<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TransitiveClosure",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TrieSET<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TrieSET",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TrieST<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TrieST",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TwoPersonZeroSumGame<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TwoPersonZeroSumGame",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UF<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.UF",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Vector<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Vector",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WeightedQuickUnionUF<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.WeightedQuickUnionUF",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WhiteFilter<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.WhiteFilter",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Whitelist<Coursera - Algorithms I_633e5f03>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Whitelist",
+            "projectName": "Coursera - Algorithms I_633e5f03"
+        }
+    ]
+}
